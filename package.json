@@ -2,7 +2,12 @@
     "name": "ziro-red-dark-theme",
     "displayName": "Ziro Red Dark Theme",
     "description": "A Vscode theme based on spicetify theme Ziro Red Dark",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "MathewOwusuJr",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mkowusujr/ziro-red-dark-vscode-theme"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
